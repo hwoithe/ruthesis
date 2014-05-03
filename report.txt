@@ -1,0 +1,10 @@
+InfoKey: Creator
+InfoValue: Author
+InfoKey: Title
+InfoValue: Thesis title
+InfoKey: Producer
+InfoValue: Author
+InfoKey: Subject
+InfoValue: Thesis
+InfoKey: Author
+InfoValue: Author
